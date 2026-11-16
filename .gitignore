@@ -1,0 +1,15 @@
+# Python 缓存
+__pycache__/
+*.py[cod]
+*.pyo
+
+# ROS 2 数据包（单个 .db3 超过 GitHub 100 MB 限制，保留在本地不提交）
+bags/
+*.db3
+*.db3-*
+
+# 编辑器与系统临时文件
+.DS_Store
+*.swp
+*.swo
+*~
